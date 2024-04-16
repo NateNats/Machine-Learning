@@ -1,0 +1,17 @@
+﻿kolom,deskripsi
+by,Nicolaus Reva S/225314097
+about data,Dataset ini berisikan nilai-nilai laboratorium mengenai pendonor darah dan pasien hepatitis C. Dataset ini disumbangkan pada tanggal 9 Juni 2020. 
+Unnamed: 0,ID Pasien
+Category,"nilai yang mencakup 0=donor darah, 0s=donor darah yang dicurigai, 1=hepatitis, 2=fibrosis, 3=cirrhosis"
+Age,umur pasien
+Sex,jenis kelamin
+ALB,"Albumin adalah protein yang paling umum ditemukan dalam plasma darah. Albumin membantu menjaga cairan tetap berada di dalam arteri dan vena, serta membawa hormon, vitamin, dan enzim ke seluruh tubuh. Kadar albumin yang rendah dalam darah dapat mengindikasikan masalah serius pada hati dan ginjal."
+ALP,"enzim yang ditemukan di seluruh tubuh. Meskipun biasanya dianggap sebagai enzim hati karena keberadaannya yang utama di hati, ALP juga terdapat di saluran empedu, tulang, ginjal, dan usus. Kadar ALP yang tinggi dalam darah dapat mengindikasikan penyakit hati atau gangguan tulang tertentu"
+ALT,Alaine aminotransferase atau sering disebut sebagai serum glutamic-pyruvic transaminase (SGPT) adalah enzime yang membantu mengubah protein menjadi energi untuk sel-sel hati
+AST,"Aspartate aminotransferase atau sering disebut sebagai serum glutamic-oxaloacetic transaminase (SGOT) adalah enzim yang sebagian besar ditemukan di hati, jantung, otot, otak dan ginjal. Ketika organ yang memiliki ezim ini mengalami kerusakan, maka sel organ yang rusak akan melepaskan AST ke dalam aliran darah. "
+BIL,Bilirubin adalah pigmen kuning yang terbentuk saat sel darah merah tua dipecah. Kadar bilirubin yang tinggi dalam darah dapat menunjukkan masalah pada hati atau gangguan tulang tertentu.
+CHE,"chilinesterase adalah enzim dalam pemecahan asetilkolin, suatu nerotransmitter, enzim ini membantu saraf agar bekerja dengan benar. Kadar kolinesterase yang tinggi atau rendah dalam darah dapat memberikan informasi tentang risiko keracunan atau gangguan saraf dan otot."
+CHOL,kolesterol adalah lemak esensial yang terdapat dalam darah. Tingkat kolesterol dapat mempengaruhi kesehatan jantung dan pembuluh darah.
+CREA,"Creatinine adalah  produk limbah kimia yang berada dalam darah. Limbah ini kemudian disaring oleh ginjal dan dibuang ke dalam urin. Jika ginjal mengalami masalah atau kerusakan, kadar kreatinin dalam darah dapat meningkat. Semakin tinggi angka kreatinin, semakin perlu untuk memahami potensi risiko kesehatan yang terkait."
+GGT,"Gamma-glutamyl Transferase adalah enzim yang berperan dalam metabolisme asam amino dan detoksifikasi dalam tubuh. GGT terutama ditemukan di hati, ginjal, dan saluran empedu. Fungsinya adalah mengubah glutathione yang berperan dalam detoksifikasi, menjadi bentuk yang dapat diekskresikan melalui urin. kadar GGT dalam darah dapat meningkat ketika terjadi kerusakan hati atau ganggunan saluran empedu. seperti hepatitis, sirosis, penyakit hati alkoholik, dan kolestasis (gangguan aliran empedu)"
+PROT,"protein merupakan komponen penting dalam tubuh, membantu memperbaiki sel darah dan menjaga fungsi secara keseluruhan.  Dalam hasil tes, asam amino ini dapat muncul dalam urin dalam jumlah kecil, tetapi kadar protein yang tinggi dalam urin dapat menjadi tanda kondisi yang lebih serius"

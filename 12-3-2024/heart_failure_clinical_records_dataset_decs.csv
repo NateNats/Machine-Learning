@@ -1,0 +1,14 @@
+﻿Columns,Description
+age,age of the patient
+anaemia,decrease of red blood cells or hemoglobin
+creatinine_phosphokinase,level of the CPK enzyme in the blood
+diabetes,if the patient has diabetes
+ejection_fraction,percentage of blood leaving the heart at each contraction
+high_blood_pressure,if the patient has hypertension
+platelets,platelets in the blood
+serum_creatinine,level of serum creatinine in the blood
+serum_sodium,level of serum sodium in the blood
+sex,woman or man
+smoking,if the patient smokes or not
+time,follow-up period
+DEATH_EVENT,if the patient died during the follow-up period
